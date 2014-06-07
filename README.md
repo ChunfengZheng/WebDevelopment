@@ -1,4 +1,4 @@
 WebDevelopment
 ==============
 
-study from book:LearningWebDevelopment by Semmy Purewal
+practice from book:LearningWebDevelopment by Semmy Purewal
